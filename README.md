@@ -33,8 +33,6 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
-
 -Could not create globals that could be used initially between settings page and main view. Had to create a struct.
 
 
